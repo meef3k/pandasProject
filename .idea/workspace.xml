@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38ceb420-c1c3-433b-8ecd-8f380df5d47f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/database.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pandas.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +45,11 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "editor.preferences.folding",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -61,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717193741524</updated>
       <workItem from="1717193743070" duration="8182000" />
+      <workItem from="1717203121498" duration="3876000" />
     </task>
     <servers />
   </component>
